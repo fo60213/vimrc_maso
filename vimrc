@@ -10,7 +10,7 @@ set shiftwidth=4
 syntax on
 colorscheme koehler
 filetype on
-" filetype indent on
+filetype indent on
 filetype plugin on
 compiler ruby
 
