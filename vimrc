@@ -16,6 +16,8 @@ set tabstop=4
 set shiftwidth=4
 colorscheme koehler
 set hlsearch		" search highlighting
+" remove highligt after search
+nmap <silent> <C-N> :silent noh<CR>
 
 " auto reload vimrc when editing it
 autocmd! bufwritepost .vimrc source ~/.vimrc
