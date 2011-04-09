@@ -22,3 +22,9 @@
 [submodule "bundle/supertab"]
 	path = bundle/supertab
 	url = https://github.com/ervandew/supertab.git
+[submodule "bundle/Processing"]
+	path = bundle/Processing
+	url = https://github.com/vim-scripts/Processing.git
+[submodule "bundle/processing-snipmate"]
+	path = bundle/processing-snipmate
+	url = https://github.com/vim-scripts/processing-snipmate.git
